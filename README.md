@@ -3,7 +3,7 @@
 <!--**wt12318/wt12318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-498%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -21,6 +21,45 @@
  > 
 > 🔑 29 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    178 commits    █████░░░░░░░░░░░░░░░░░░░░   23.24% 
+🌆 Daytime    230 commits    ███████░░░░░░░░░░░░░░░░░░   30.03% 
+🌃 Evening    354 commits    ███████████░░░░░░░░░░░░░░   46.21% 
+🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.75% 
+Tuesday      152 commits    █████░░░░░░░░░░░░░░░░░░░░   19.84% 
+Wednesday    97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.66% 
+Thursday     105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
+Friday       82 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.7% 
+Saturday     97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.66% 
+Sunday       143 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.67%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Hong_Kong
+
+💬 Programming Languages: 
+Other                    14 hrs 34 mins      █████████████████████████   100.0%
+
+🔥 Editors: 
+Browser                  14 hrs 34 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  14 hrs 34 mins      █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in R** 
 
 ```text
@@ -38,7 +77,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/wt12318/wt12318/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 18:55:18 UTC
+ Last Updated on 04/09/2022 19:02:18 UTC
 <!--END_SECTION:waka-->
 
 
