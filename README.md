@@ -50,13 +50,13 @@ Sunday       149 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    2 hrs 35 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Browser                  2 hrs 35 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 35 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -77,7 +77,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/wt12318/wt12318/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/09/2022 19:08:45 UTC
+ Last Updated on 01/10/2022 19:09:22 UTC
 <!--END_SECTION:waka-->
 
 
