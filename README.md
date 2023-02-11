@@ -3,7 +3,7 @@
 <!--**wt12318/wt12318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-577%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,13 +50,13 @@ Sunday         151 commits       ████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    7 hrs 7 mins        █████████████████████████   100.00 % 
+Other                    10 hrs 13 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Browser                  7 hrs 7 mins        █████████████████████████   100.00 % 
+Browser                  10 hrs 13 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  10 hrs 13 mins      █████████████████████████   100.00 % 
 
 ```
 
@@ -77,7 +77,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/wt12318/wt12318/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/02/2023 18:52:08 UTC
+ Last Updated on 11/02/2023 18:49:09 UTC
 <!--END_SECTION:waka-->
 
 
